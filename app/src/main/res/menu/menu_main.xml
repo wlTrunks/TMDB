@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.l1ngdtkh3.tmdb.ui.MainActivity">
+    <item
+        android:id="@+id/action_feed"
+        android:icon="@drawable/selector_ic_feed"
+        android:title="@string/action_feed" />
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/selector_ic_favorite"
+        android:title="@string/action_favorite" />
+</menu>
